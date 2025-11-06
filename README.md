@@ -44,7 +44,7 @@ O objetivo deste repositório é **documentar e consolidar aprendizados** sobre 
 ## 🧠 Inspiração
 
 Curso: *Introdução a Serviços de IA na Cloud com a Azure* – **DIO**  
-Instrutora: [Valéria Baptista]  
+Instrutora: Valéria Baptista
 
 ---
 
